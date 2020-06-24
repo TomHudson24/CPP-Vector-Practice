@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Tom\source\repos\UsingModAndVecs\UsingModAndVecs\main.cpp(14,23): warning C4018: '<': signed/unsigned mismatch
+  UsingModAndVecs.vcxproj -> C:\Users\Tom\source\repos\UsingModAndVecs\Debug\UsingModAndVecs.exe
